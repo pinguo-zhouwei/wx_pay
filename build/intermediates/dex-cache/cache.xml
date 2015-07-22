@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/zhouwei/AndroidStudioProjects/wx_pay/app/libs/libammsdk.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="/home/zhouwei/AndroidStudioProjects/wx_pay/app/build/intermediates/pre-dexed/debug/libammsdk-31ede84055c71d10622e18161d1b77caa52858ed.jar" />
+    </item>
+
+</items>
